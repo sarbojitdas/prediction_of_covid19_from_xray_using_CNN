@@ -1,0 +1,1 @@
+# prediction_of_covid19_from_xray_using_CNN
